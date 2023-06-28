@@ -1,10 +1,11 @@
 {
   "files": {
     "main.css": "/golfcountryclub/static/css/main.138e1624.css",
-    "main.js": "/golfcountryclub/static/js/main.a50bd151.js",
+    "main.js": "/golfcountryclub/static/js/main.5b1d0e7d.js",
     "static/js/787.71e672d5.chunk.js": "/golfcountryclub/static/js/787.71e672d5.chunk.js",
     "static/media/bg-golf.jpg": "/golfcountryclub/static/media/bg-golf.4ca5c7a3c3a844dcf242.jpg",
     "static/media/hero2.jpg": "/golfcountryclub/static/media/hero2.0faede64fdecd8885dcf.jpg",
+    "static/media/golf.jpg": "/golfcountryclub/static/media/golf.24be1ca573fe820f57a6.jpg",
     "static/media/dron.png": "/golfcountryclub/static/media/dron.91f17f7f2f78d63022fe.png",
     "static/media/henrry.jpeg": "/golfcountryclub/static/media/henrry.eb9695a32309387a723a.jpeg",
     "static/media/GTWalsheimPro-Bold.ttf": "/golfcountryclub/static/media/GTWalsheimPro-Bold.2dbf49e9fcb548837711.ttf",
@@ -25,11 +26,11 @@
     "index.html": "/golfcountryclub/index.html",
     "static/media/Facebook.svg": "/golfcountryclub/static/media/Facebook.282e1142e9c65bd2ab2635c1a61a87d9.svg",
     "main.138e1624.css.map": "/golfcountryclub/static/css/main.138e1624.css.map",
-    "main.a50bd151.js.map": "/golfcountryclub/static/js/main.a50bd151.js.map",
+    "main.5b1d0e7d.js.map": "/golfcountryclub/static/js/main.5b1d0e7d.js.map",
     "787.71e672d5.chunk.js.map": "/golfcountryclub/static/js/787.71e672d5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.138e1624.css",
-    "static/js/main.a50bd151.js"
+    "static/js/main.5b1d0e7d.js"
   ]
 }
